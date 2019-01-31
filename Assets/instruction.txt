@@ -1,0 +1,3 @@
+sputnik parenty petqa lini globusi kentronum
+<sputnikScr>-um petqa qashelov qcel sputniky(prefab)
+<sputnikRotateAnim>-speedy dzerov tal(kam scr-y poxel)
